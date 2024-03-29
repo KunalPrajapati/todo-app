@@ -1,0 +1,4 @@
+open folder in vscode
+open terminal and 
+run command 'npm install' to install all required packages 
+run command 'npm start' to run project
